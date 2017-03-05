@@ -2,5 +2,6 @@
 <Version: 1.8>
 /data/Map002.json https://raw.githubusercontent.com/Psyducklover/Updaterforgame/master/Map002.json
 /data/Map006.json https://raw.githubusercontent.com/Psyducklover/Updaterforgame/master/Map006.json
-/data/Map008.json https://raw.githubusercontent.com/Psyducklover/Updaterforgame/master/Map008.json
+/data/Map009.json https://raw.githubusercontent.com/Psyducklover/Updaterforgame/master/Map009.json
+/audio/test.zip https://wordpress.org/latest.zip
 <End of Version>
