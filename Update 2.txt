@@ -1,1 +1,7 @@
 
+<Version: 1.20>
+/data/test.zip https://wordpress.org/latest.zip
+/icon/test.zip https://wordpress.org/latest.zip
+/img/test.zip https://wordpress.org/latest.zip
+/js/test.zip https://wordpress.org/latest.zip
+<End of Version>
