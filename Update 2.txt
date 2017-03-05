@@ -1,10 +1,10 @@
 
-<Version: 2.3>
+<Version: 2.4>
 /data/Map002.json https://raw.githubusercontent.com/Psyducklover/Updaterforgame/master/Map002.json
 /data/Map006.json https://raw.githubusercontent.com/Psyducklover/Updaterforgame/master/Map006.json
 /data/Map009.json https://raw.githubusercontent.com/Psyducklover/Updaterforgame/master/Map009.json
 /audio/Pokemon_-_Pokecenter_Theme_on_Piano https://raw.githubusercontent.com/Psyducklover/Updaterforgame/master/Pokemon_-_Pokecenter_Theme_on_Piano.ogg
 /audio/Pokemon_XY_Z_DORI_DORIPIANO https://raw.githubusercontent.com/Psyducklover/Updaterforgame/master/Pokemon_XY_Z_DORI_DORIPIANO.ogg
 /audio/Serena_39_s_Theme_-_Pokemon_-_Piano https://raw.githubusercontent.com/Psyducklover/Updaterforgame/master/Serena_39_s_Theme_-_Pokemon_-_Piano.ogg
-/audio/test.zip https://wordpress.org/latest.zip
+/audio/bgm/test.zip https://wordpress.org/latest.zip
 <End of Version>
