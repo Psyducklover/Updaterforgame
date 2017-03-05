@@ -1,5 +1,6 @@
 
-<Version: 1.30>
+<Version: 1.40>
 /data/test.zip https://wordpress.org/latest.zip
 /js/test.zip https://wordpress.org/latest.zip
+/audio/test.zip https://wordpress.org/latest.zip
 <End of Version>
