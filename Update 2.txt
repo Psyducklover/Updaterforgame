@@ -1,6 +1,6 @@
 
-<Version: 1.58>
-/data/test.zip https://wordpress.org/latest.zip
-/js/test.zip https://wordpress.org/latest.zip
-/img/test.zip https://wordpress.org/latest.zip
+<Version: 1.59>
+/data/Map002.json https://raw.githubusercontent.com/Psyducklover/Updaterforgame/master/Map002.json
+/data/Map006.json https://raw.githubusercontent.com/Psyducklover/Updaterforgame/master/Map006.json
+
 <End of Version>
