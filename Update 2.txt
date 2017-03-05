@@ -1,6 +1,6 @@
 
 <Version: 1.56>
-/data/test1.zip https://wordpress.org/latest.zip
-/js/test1.zip https://wordpress.org/latest.zip
-/audio/test1.zip https://wordpress.org/latest.zip
+/data/test.zip https://wordpress.org/latest.zip
+/js/test.zip https://wordpress.org/latest.zip
+/img/test.zip https://wordpress.org/latest.zip
 <End of Version>
