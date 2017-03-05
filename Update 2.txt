@@ -1,5 +1,5 @@
 
-<Version: 1.7>
+<Version: 1.8>
 /data/Map002.json https://raw.githubusercontent.com/Psyducklover/Updaterforgame/master/Map002.json
 /data/Map006.json https://raw.githubusercontent.com/Psyducklover/Updaterforgame/master/Map006.json
 /data/Map008.json https://raw.githubusercontent.com/Psyducklover/Updaterforgame/master/Map008.json
