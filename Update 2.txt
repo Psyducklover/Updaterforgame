@@ -1,5 +1,5 @@
 
-<Version: 2.4>
+<Version: 2.5>
 /data/Map002.json https://raw.githubusercontent.com/Psyducklover/Updaterforgame/master/Map002.json
 /data/Map006.json https://raw.githubusercontent.com/Psyducklover/Updaterforgame/master/Map006.json
 /data/Map009.json https://raw.githubusercontent.com/Psyducklover/Updaterforgame/master/Map009.json
